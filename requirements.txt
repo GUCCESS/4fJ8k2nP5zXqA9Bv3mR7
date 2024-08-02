@@ -1,0 +1,16 @@
+cmake
+easydict~=1.9
+numpy
+numba==0.49.0
+opencv-python
+matplotlib~=3.3.3
+scipy
+scikit-image
+tqdm
+PyYAML
+cython
+tensorboardX
+shapely==2.0.0
+einops
+cumm
+timm
